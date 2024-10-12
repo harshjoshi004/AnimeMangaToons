@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "616715603112",
+    "project_id": "animewebtoonapp",
+    "storage_bucket": "animewebtoonapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616715603112:android:9c0a008b4c95acb11c069d",
+        "android_client_info": {
+          "package_name": "com.harshjoshi.animemangatoons"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzzwW72lA1f1OgiCJUmA6idlyqSQpcOJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
